@@ -22,3 +22,14 @@ Programs:
 - Github
 
 Command Line (linux & windows)
+
+
+To Do Winter Break:
+  Text editors and git/github set up
+  Applications
+  HTML, CSS, JavaScript lessons
+  
+  Emails:
+    Rapien - meeting time
+    Group - weekly updates and reminders
+    
