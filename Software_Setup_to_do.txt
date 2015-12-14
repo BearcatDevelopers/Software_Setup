@@ -1,23 +1,25 @@
 Homework for setting up Bearcat Developers
 Weekly: Send updates, add  new email addresses to listserv
 
-Tutorials for set-up for: 
+------- COMPLETED---------
+Tutorials for set-up for:
 Text editors:
 - Atom
 - Sublime 2
-- Notepad ++ 
+- Notepad ++
 * takes care of HTML, CSS, JQuery, JS
+------- COMPLETED---------
 
-Programming Languages: 
+Programming Languages:
 - Ruby - Version ()
 - Python - Version ()
 * Will need to include updating PATH variables
 
-Environments: 
+Environments:
 - Java
 - Eclipse/spring
 
-Programs: 
+Programs:
 - Git
 - Github
 
@@ -28,8 +30,7 @@ To Do Winter Break:
   Text editors and git/github set up
   Applications
   HTML, CSS, JavaScript lessons
-  
+
   Emails:
     Rapien - meeting time
     Group - weekly updates and reminders
-    
